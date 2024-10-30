@@ -8,7 +8,7 @@ const HeadlineCards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>
-          <p className='font-bold text-2xl px-2 pt-4'>Sun's Out, BOGO's Out</p>
+          <p className='font-bold text-2xl px-2 pt-4'>Sun&apos;s Out, BOGO&apos;s Out</p>
           <p className='px-2'>Through 8/26</p>
           <button className='border-white bg-white text-black mx-2 absolute bottom-4 hover:text-white hover:bg-black hover:border-black transition-all '>Order Now</button>
         </div>
